@@ -1,34 +1,44 @@
 <h1 align="center">Hi 👋, I'm Harshit Shaw</h1>
-<h3 align="center">Frontend Developer | Web 3D Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Frontend Developer | Web 3D Enthusiast | Gamer 🎮 | Lifelong Learner</h3>
 
 ---
 
 ### 🌱 About Me
-- 🎓 I’m currently pursuing **B.Tech in Computer Science (2nd Year)**
-- 💻 I love building **interactive & immersive web experiences**
-- 🧩 Currently learning **SQL & Database Management**
-- 🚀 Passionate about **Modern Web Development & 3D Web Graphics**
-- 📫 Reach me at: **harshitshaw@example.com** *(replace with your email)*
+- 🎓 B.Tech CSE (2nd Year)
+- 💻 Frontend Developer specializing in **Next.js** & **Three.js**
+- 🧠 Currently learning **SQL & Database Management**
+- 🎮 **Gamer by Passion** — Competitive + Fun Play
+- 🚀 Love creating **interactive, immersive web experiences**
+- 📫 Reach me at: **mohitshaw236@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/harshitshaw/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohitshaw236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshitshaw/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohitshaw236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,threejs,tailwind,nodejs,mysql,git,github" />
 </p>
 
 ---
 
+### 🎮 Gaming & Interests
+- FPS & Story-driven games
+- Esports competitive mindset
+- Team Play + Strategy
+
+> *Gaming teaches focus, creativity & patience — same energy goes into coding.*  
+
+---
+
 ### 📊 GitHub Stats
+> If streak shows blank → Make contributions **public** (Settings → Profile)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=tokyonight" alt="GitHub Streak" />
@@ -45,16 +55,16 @@
 ---
 
 ### 🚀 What I Do
-- Build **modern UI** using **React & Next.js**
-- Create **3D web experiences** with **Three.js**
-- Experiment with **APIs, animations, UI interactions**
-- Design **smooth, responsive & aesthetic web pages**
+- Build **modern UI** with **React / Next.js**
+- Create **3D Web Experiences** using **Three.js**
+- Work with **APIs, animations & dynamic UI**
+- Focus on **clean, responsive & aesthetic design**
 
 ---
 
-### 💡 Quote I Follow:
-> *"The best way to predict the future is to build it."*
+### 💡 Quote I Follow
+> *"The grind never stops — in code, in gaming, in life."*
 
 ---
 
-⭐ **Feel free to check out my repositories and connect!**
+⭐ **Thanks for visiting — feel free to connect!**
