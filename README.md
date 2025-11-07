@@ -67,4 +67,4 @@
 
 ---
 
-⭐ **Thanks for visiting — feel free to connect!**
+⭐ **Thanks for visiting feel free to connect!**
