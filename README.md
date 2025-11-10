@@ -79,9 +79,13 @@ const harshit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
+
+</div>
+
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 
@@ -132,16 +136,6 @@ Motto: "GG EZ — but never toxic"
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Beastyy69/Beastyy69/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
