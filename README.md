@@ -1,157 +1,174 @@
+# 👾 Hi, I'm **Harshit "Beastyy" Shaw** — Arcade Gamer & Frontend Dev
+
 <div align="center">
 
-# 👋 Hi, I'm **Harshit Shaw**
+<img src="https://media.tenor.com/ZZQm6NvG2T4AAAAC/arcade-gaming.gif" width="420" alt="Arcade GIF" />
 
-<img src="https://media.tenor.com/2uyENR6Y1TUAAAAC/coding.gif" width="430" />
+<br>
 
-**Frontend Developer • Web 3D Enthusiast • Competitive Gamer**
+<h3>Frontend Developer • Web 3D Enthusiast • Competitive Gamer</h3>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎮 Arcade Profile — Gamer Mode: ON
 
-```typescript
-const harshit = {
-  education: "B.Tech CSE (2nd Year) @ Academy of Technology",
-  role: "Frontend Developer",
+<div align="center">
+
+![Rank Badge](https://img.shields.io/badge/Rank%20%EF%B8%8F-Gladiator%20I-ff0055?style=for-the-badge&logo=gamepad) 
+![KDA](https://img.shields.io/badge/KDA-??-00FFAA?style=for-the-badge&logo=gamepad) 
+![Hours](https://img.shields.io/badge/Playtime-2000%2B%20hrs-00BFFF?style=for-the-badge&logo=controller) 
+![Region](https://img.shields.io/badge/Region-India%20%F0%9F%87%AE%F0%9F%87%B3-8A2BE2?style=for-the-badge)
+
+</div>
+
+---
+
+## ⚡ Quick Bio (IRL → In-Game)
+
+```js
+const Harshit = {
+  tag: "Beastyy69",
+  role: "Frontend Dev & 3D Web Artist",
   location: "Kolkata, India 🇮🇳",
-  passions: ["3D Web", "Gaming", "Creative UI"],
-  stack: ["Next.js", "React", "Three.js", "Tailwind"],
-  currentlyLearning: ["Shaders", "WebGL Pipeline", "MySQL & DB Design"],
-  funFact: "I clutch in games AND deadlines. 🕹️⚡"
+  playstyle: ["Entry Fragger", "Clutch Caller", "Support Flex"],
+  fps_sensitivity: "0.35 @ 800dpi",
+  motto: "GG — but never toxic."
 };
 ```
 
 ---
 
-## 🚀 What I'm Doing Now
+## 🕹️ ARCADE HUD — What's new?
 
-- → Crafting **Immersive 3D Web Experiences**
-- → Leveling up in **Shaders + Lighting + WebGL**
-- → Designing **Full-Stack Projects with Next.js**
-- → Grinding **FPS & Strategy Games**
-- → Collaborating on **Creatively Challenging Projects**
+- ✅ Grinding aim & movement (FPS focus)  
+- ✅ Building immersive 3D web demos with Three.js  
+- ✅ Designing shader-based effects for interactive sites  
+- ✅ Releasing MailMind Pro & 3D Portfolio (soon)
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Loadout (RGB Edition)
 
 <div align="center">
 
-**Frontend & UI**
-<br>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+**Frontend** | **3D** | **Backend** | **Tools**
+:---:|:---:|:---:|:---:
+HTML5 • CSS3 • JS • TS • React • Next.js | Three.js • WebGL • Shaders • glTF | Node.js • MySQL | Git • VSCode • Vercel
 
-**3D & Animation**
 <br>
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock)
 
-**Backend & DB**
-<br>
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql)
-
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![HTML](https://img.shields.io/badge/HTML5-ff6b6b?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-00b3ff?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Three.js](https://img.shields.io/badge/Three.js-gray?style=for-the-badge&logo=three.js)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
 
 </div>
 
 ---
 
-## 🧱 Featured Projects
+## 🏆 Featured Projects (Leaderboard)
 
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| **MailMind Pro** | AI-based Smart Mail Summarizer | Next.js • Gemini API | *(Link soon)* |
-| **Nova Voice AI** | Personal Voice Assistant | Python • gTTS • API | *(Private)* |
-| **3D Portfolio** | Interactive Web 3D Experience | Three.js • Shaders | *(In Development)* |
+| # | Project | Short | Tech | Status |
+|--:|--------:|:-----:|:----:|:-----:|
+| 1 | MailMind Pro | AI mail summarizer — inbox like a quest log | Next.js • Gemini | Beta |
+| 2 | Nova Voice AI | Personal voice assistant — NOVA | Python • gTTS | Private |
+| 3 | 3D Portfolio | Interactive 3D landing page | Three.js • Shaders | In Dev |
+| 4 | GameHUD UI Kit | Reusable esports HUD components | React • Tailwind | Prototype |
 
 ---
 
-## 🎮 Gaming Corner
+## 🧭 Player Stats — Leaderboard Card
 
-```yaml
-Gamer Tag: Beastyy
-Genre: FPS / RPG / Strategy
-Strength: Clutch + Game Sense + Team Calls
-Motto: "Win with calm. Execute with precision."
+```
+Season 2025
+Wins: 523 | Losses: 214 | Winrate: 70.9%
+Avg K/D: 2.3 | Avg Score: 1784
+Most Played: Valorant, CS2, Apex Legends
 ```
 
-<img src="https://media.tenor.com/9aZQzVnWn2kAAAAC/valorant-ace.gif" width="450" />
+---
+
+## 🕹️ Gamer Setup & Settings
+
+- Monitor: 240Hz, 24"  
+- Mouse: Logitech G Pro X Superlight (800 DPI)  
+- Sens: 0.35 (in-game)  
+- Keybinds: Custom macro layer for f-key utility  
+- Voice: Discord / OBS integration for streams
 
 ---
 
-## 🏆 Achievements & Badges
+## ✨ Arcade UI Extras (Copy & Paste bits)
+
+### Neon Section Header (HTML + CSS snippet)
+```html
+<!-- Neon header -->
+<h2 class="neon">⌁ Featured Projects</h2>
+
+<style>
+.neon{
+  font-weight:800;
+  text-align:center;
+  filter: drop-shadow(0 0 8px rgba(0,255,255,0.12));
+  background: linear-gradient(90deg,#ff2d95,#00d4ff,#7c4dff);
+  -webkit-background-clip: text;
+  color: transparent;
+  padding: 6px 0;
+}
+</style>
+```
+
+### Animated Scoreboard (Markdown trick using GIF)
+```md
+![Scoreboard](https://media.tenor.com/1J8kJQZr7n0AAAAC/scoreboard.gif)
+```
+
+---
+
+## 🐍 Contribution Snake (Arcade Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Beastyy69/Beastyy69/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+</p>
+
+---
+
+## 🚀 Roadmap (Season Goals)
+
+- Q4 2025: Launch MailMind Pro public beta  
+- Q1 2026: Public 3D portfolio + shader gallery  
+- Ongoing: Stream + upload gameplay montages, build GameHUD components
+
+---
+
+## 📺 Streams & Clips (Live & VOD)
+
+Follow for live streams & highlights:
+
+- Twitch: `twitch.tv/Beastyy` *(update if different)*  
+- YouTube: `youtube.com/voidmystrey` *(95% gameplay + dev streams)*
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Beastyy69&theme=radical&no-frame=true&margin-w=6)
-
+  <img src="https://media.tenor.com/6QXy0aTnV8AAAAAC/video-game.gif" width="420" />
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 📬 Contact & Collabs
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+- GitHub: https://github.com/Beastyy69
+- Email: mohitshaw236@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshitshaw/
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![snake gif](https://github.com/Beastyy69/Beastyy69/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+## 🧾 Copy-paste Ready: Markdown Summary (short)
+> Arcade README created for full-gamer energy, neon headers, animated badges, and HUD-style layout. Paste as `README.md` in your repo for instant arcade vibes.
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Beastyy69&theme=react-dark&area=true)](https://github.com/Beastyy69)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### **"The grind never stops — in code, in gaming, in life."**
-
-<img src="https://komarev.com/ghpvc/?username=Beastyy69&style=for-the-badge&color=00F7F7" />
-
-</div>
+<p align="center">Made with ❤️ — now go flex this README on your GitHub profile. ⚡🎮</p>
