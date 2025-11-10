@@ -1,16 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshit Shaw
+# 👋 Hi, I'm **Harshit Shaw**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Web+3D+Enthusiast+%F0%9F%8C%90;Competitive+Gamer+%F0%9F%8E%AE;B.Tech+CSE+%40+AOT+%F0%9F%8E%93;Building+Immersive+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://media.tenor.com/2uyENR6Y1TUAAAAC/coding.gif" width="430" />
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitshaw/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitshaw236@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beastyy69)
+**Frontend Developer • Web 3D Enthusiast • Competitive Gamer**
 
 </div>
 
@@ -20,106 +14,115 @@
 
 ```typescript
 const harshit = {
-    education: "B.Tech CSE (2nd Year) @ Academy of Technology",
-    location: "Kolkata, India 🇮🇳",
-    role: "Frontend Developer",
-    specialization: ["Next.js", "Three.js", "Interactive Web"],
-    currentlyLearning: ["SQL", "Database Management", "WebGL"],
-    passions: ["Coding", "Gaming", "3D Web Experiences"],
-    funFact: "I debug code like I clutch games — under pressure 🎮",
-    mindset: "The grind never stops — in code, in gaming, in life"
+  education: "B.Tech CSE (2nd Year) @ Academy of Technology",
+  role: "Frontend Developer",
+  location: "Kolkata, India 🇮🇳",
+  passions: ["3D Web", "Gaming", "Creative UI"],
+  stack: ["Next.js", "React", "Three.js", "Tailwind"],
+  currentlyLearning: ["Shaders", "WebGL Pipeline", "MySQL & DB Design"],
+  funFact: "I clutch in games AND deadlines. 🕹️⚡"
 };
 ```
 
+---
+
+## 🚀 What I'm Doing Now
+
+- → Crafting **Immersive 3D Web Experiences**
+- → Leveling up in **Shaders + Lighting + WebGL**
+- → Designing **Full-Stack Projects with Next.js**
+- → Grinding **FPS & Strategy Games**
+- → Collaborating on **Creatively Challenging Projects**
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+**Frontend & UI**
+<br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+**3D & Animation**
+<br>
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock)
+
+**Backend & DB**
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql)
+
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+
 </div>
 
 ---
 
-### 🚀 What I'm Up To
+## 🧱 Featured Projects
 
-- 🔭 Building **immersive web experiences** with Three.js  
-- 🌱 Mastering **SQL & Database Architecture**  
-- 🎮 Grinding **FPS & Story-Driven Games**  
-- 💡 Exploring **Web3D, Shaders & Animations**  
-- 🤝 Open to **collaborations & projects**  
-- ⚡ Fun fact: I code better at **night** 🌙  
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🎨 3D & Animation  
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### ⚙️ Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-
-</div>
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| **MailMind Pro** | AI-based Smart Mail Summarizer | Next.js • Gemini API | *(Link soon)* |
+| **Nova Voice AI** | Personal Voice Assistant | Python • gTTS • API | *(Private)* |
+| **3D Portfolio** | Interactive Web 3D Experience | Three.js • Shaders | *(In Development)* |
 
 ---
 
 ## 🎮 Gaming Corner
 
 ```yaml
-Current Grind:
-  - Competitive FPS 🎯
-  - Story-Driven RPGs 🗡️
-  - Strategy & Teamwork 🧠
-
-Playstyle:
-  - Competitive Mindset
-  - Team Coordination
-  - Clutch Moments
-
-Motto: "GG EZ — but never toxic"
+Gamer Tag: Beastyy
+Genre: FPS / RPG / Strategy
+Strength: Clutch + Game Sense + Team Calls
+Motto: "Win with calm. Execute with precision."
 ```
+
+<img src="https://media.tenor.com/9aZQzVnWn2kAAAAC/valorant-ace.gif" width="450" />
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Beastyy69&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Beastyy69&theme=radical&no-frame=true&margin-w=6)
+
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![snake gif](https://github.com/Beastyy69/Beastyy69/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -129,7 +132,7 @@ Motto: "GG EZ — but never toxic"
 
 <div align="center">
 
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Beastyy69&theme=react-dark&hide_border=true&area=true)](https://github.com/Beastyy69)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Beastyy69&theme=react-dark&area=true)](https://github.com/Beastyy69)
 
 </div>
 
@@ -147,10 +150,8 @@ Motto: "GG EZ — but never toxic"
 
 <div align="center">
 
-### 💡 "The grind never stops — in code, in gaming, in life."
+### **"The grind never stops — in code, in gaming, in life."**
 
-<img src="https://komarev.com/ghpvc/?username=Beastyy69&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views" />
-
-### ⭐ Thanks for visiting! Feel free to connect and collaborate
+<img src="https://komarev.com/ghpvc/?username=Beastyy69&style=for-the-badge&color=00F7F7" />
 
 </div>
